@@ -14,6 +14,17 @@ Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquant
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Delphi](https://img.shields.io/badge/-Delphi-EE1F25?style=for-the-badge&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 📲 Ferramentas de Design e Edição
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-00B388?style=for-the-badge&logo=coreldraw&logoColor=white)
+![HandBrake](https://img.shields.io/badge/-HandBrake-FF6F00?style=for-the-badge&logo=handbrake&logoColor=white)
+
 
 ### 📱 Frameworks e Bibliotecas
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -29,6 +40,8 @@ Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquant
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Dev C++](https://img.shields.io/badge/-Dev%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 📈 Em constante evolução
 - Aprendendo PHP e Delphi
@@ -37,9 +50,9 @@ Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquant
 - Criando projetos com Flutter e React
 
 ## 📫 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📷 [Instagram](https://www.instagram.com/seu-usuario)
-- ✉️ Email: seuemail@exemplo.com
+- 💼 [LinkedIn](www.linkedin.com/in/ivan-de-araújo-48382a330)
+- 📷 [Instagram](https://www.instagram.com/user.dev.xs/)
+- ✉️ Email: ivandearaujodev@gmail.com
 
 ---
 
