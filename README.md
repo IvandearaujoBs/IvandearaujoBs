@@ -9,19 +9,14 @@ Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquant
 ## 🚀 Tecnologias que uso e estudo 
 
 ### 💻 Linguagens
-<div>
-  <ul>
-    <ol>
-<img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="70"/>
+<img width="50" src="https://github.com/user-attachments/assets/e74f5ee9-28fd-403c-a7ce-0d4ca41216e5" />
 <img width="50" src="https://github.com/user-attachments/assets/53ce09a2-03f0-465f-a9ba-6e2434719ac4" "/>
 <img width="60" src="https://github.com/user-attachments/assets/32b6fca7-847d-4904-a4f6-f46d5e100d2d" />
 <img width="60" src="https://github.com/user-attachments/assets/8f3e31dd-2ea4-40d1-b546-d693dcefa26c" />
 <img width="60" src="https://github.com/user-attachments/assets/9ae0b00a-d9ca-442e-bee6-eede3895ef29" />
 <img width="60" src="https://github.com/user-attachments/assets/bd967273-d1c9-4cdd-89a3-5d5acc26659e" />
 <img width="60" src="https://github.com/user-attachments/assets/99745186-84fa-4a3a-9e0d-3276e339d625" />
-    </ol>
-    </ul>
-</div>
+
 
 ### 📲 Ferramentas de Design e Edição
 <img width="60" src="https://github.com/user-attachments/assets/ee723523-2ca6-4b9b-80e0-93971350b52f" />
@@ -31,6 +26,8 @@ Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquant
 <img width="60" src="https://github.com/user-attachments/assets/7b2f85b7-a547-4e1e-9b7e-db0323cee182" />
 <img width="60" src="https://github.com/user-attachments/assets/17a1fe17-faa0-4ae4-ae50-3201a4997cb2" />
 
+
+
 ### 📱 Frameworks e Bibliotecas
 <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/883ed428-de48-4085-932d-aa87ea73fc6d" />
 <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/a701577b-12bc-4798-a00a-8a6fc94819fe" />
@@ -38,10 +35,14 @@ Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquant
 <img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/9e310372-3e6d-44a3-a089-1294f87c8b44" />
 
 
+
+
 ### 🗄️ Bancos de Dados
 <img width="50" src="https://github.com/user-attachments/assets/bdd8bfc0-b2f1-4969-ad30-76458366f96c" />
 <img width="50" src="https://github.com/user-attachments/assets/e4b41c2c-c284-4e6f-9565-7f497350b14e" />
 <img width="50" src="https://github.com/user-attachments/assets/2fbf148e-3b86-46ad-82d3-10d9a8c7bdc9" />
+
+
 
 ### ⚙️ Ferramentas e IDEs
 <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/1d2df8b5-e49f-4ff4-a5c7-2d968a38312e" />
