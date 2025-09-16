@@ -38,7 +38,7 @@ Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquant
 
 <hr>
 ### 🗄️ Bancos de Dados <br>
-<img width="50" src="https://github.com/user-attachments/assets/bdd8bfc0-b2f1-4969-ad30-76458366f96c" />
+<img width="60" src="https://github.com/user-attachments/assets/1a2894c5-27fb-4f6f-909f-dc939a8a55cc" />
 <img width="50" src="https://github.com/user-attachments/assets/e4b41c2c-c284-4e6f-9565-7f497350b14e" />
 <img width="50" src="https://github.com/user-attachments/assets/2fbf148e-3b86-46ad-82d3-10d9a8c7bdc9" />
 
