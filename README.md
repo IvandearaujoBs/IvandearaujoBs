@@ -4,7 +4,6 @@ Sou desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por transfo
 
 Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquanto continuo evoluindo nas stacks que já domino.
 
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-dev&show_icons=true&theme=radical)
 
 ## 🚀 Tecnologias que uso e estudo 
 <hr>
