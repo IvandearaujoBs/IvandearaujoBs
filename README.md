@@ -8,7 +8,7 @@ Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquant
 Tecnologias que uso e estudo 
 <hr>
 Linguagens <br>
-<img width="50" src="https://github.com/user-attachments/assets/e74f5ee9-28fd-403c-a7ce-0d4ca41216e5" style "pointer-events: none" />
+<img width="50" src="https://github.com/user-attachments/assets/e74f5ee9-28fd-403c-a7ce-0d4ca41216e5"/>
 <img width="50" src="https://github.com/user-attachments/assets/53ce09a2-03f0-465f-a9ba-6e2434719ac4" "/>
 <img width="60" src="https://github.com/user-attachments/assets/32b6fca7-847d-4904-a4f6-f46d5e100d2d" />
 <img width="60" src="https://github.com/user-attachments/assets/8f3e31dd-2ea4-40d1-b546-d693dcefa26c" />
