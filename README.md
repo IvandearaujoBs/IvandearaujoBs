@@ -9,12 +9,12 @@ Tecnologias que uso e estudo
 <hr>
 Linguagens <br>
 <img width="50" src="https://github.com/user-attachments/assets/e74f5ee9-28fd-403c-a7ce-0d4ca41216e5"/>
-<img width="50" src="https://github.com/user-attachments/assets/53ce09a2-03f0-465f-a9ba-6e2434719ac4" "/>
-<img width="60" src="https://github.com/user-attachments/assets/32b6fca7-847d-4904-a4f6-f46d5e100d2d" />
-<img width="60" src="https://github.com/user-attachments/assets/8f3e31dd-2ea4-40d1-b546-d693dcefa26c" />
-<img width="60" src="https://github.com/user-attachments/assets/9ae0b00a-d9ca-442e-bee6-eede3895ef29" />
-<img width="60" src="https://github.com/user-attachments/assets/bd967273-d1c9-4cdd-89a3-5d5acc26659e" />
-<img width="60" src="https://github.com/user-attachments/assets/99745186-84fa-4a3a-9e0d-3276e339d625" />
+<img width="50" src="https://github.com/user-attachments/assets/53ce09a2-03f0-465f-a9ba-6e2434719ac4"/>
+<img width="60" src="https://github.com/user-attachments/assets/32b6fca7-847d-4904-a4f6-f46d5e100d2d"/>
+<img width="60" src="https://github.com/user-attachments/assets/8f3e31dd-2ea4-40d1-b546-d693dcefa26c"/>
+<img width="60" src="https://github.com/user-attachments/assets/9ae0b00a-d9ca-442e-bee6-eede3895ef29"/>
+<img width="60" src="https://github.com/user-attachments/assets/bd967273-d1c9-4cdd-89a3-5d5acc26659e"/>
+<img width="60" src="https://github.com/user-attachments/assets/99745186-84fa-4a3a-9e0d-3276e339d625"/>
 
 <hr>
 Ferramentas de Design e Edição <br>
@@ -48,7 +48,7 @@ Ferramentas e IDEs <br>
 <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/8c7c0012-6698-4861-868c-5e5c3cea9fdc" />
 <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/08cc0022-07a2-4e65-9414-383f1beb5b5d" />
 <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/34bcec29-92d3-4ae8-b8eb-e85a52f32dec" />
-
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/09a3849f-f874-4943-8244-bf1371c68668" />
 
 
 <hr>
