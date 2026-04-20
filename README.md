@@ -48,7 +48,7 @@ Ferramentas e IDEs <br>
 <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/8c7c0012-6698-4861-868c-5e5c3cea9fdc" />
 <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/08cc0022-07a2-4e65-9414-383f1beb5b5d" />
 <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/34bcec29-92d3-4ae8-b8eb-e85a52f32dec" />
-<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/09a3849f-f874-4943-8244-bf1371c68668" />
+
 
 
 <hr>
