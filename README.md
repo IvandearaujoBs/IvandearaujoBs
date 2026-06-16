@@ -9,7 +9,7 @@ Tecnologias que uso e estudo
 <hr>
 Linguagens <br>
 <img width="50" src="https://github.com/user-attachments/assets/e74f5ee9-28fd-403c-a7ce-0d4ca41216e5"/>
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
 <img width="60" src="https://github.com/user-attachments/assets/32b6fca7-847d-4904-a4f6-f46d5e100d2d"/>
 <img width="60" src="https://github.com/user-attachments/assets/8f3e31dd-2ea4-40d1-b546-d693dcefa26c"/>
 <img width="60" src="https://github.com/user-attachments/assets/9ae0b00a-d9ca-442e-bee6-eede3895ef29"/>
