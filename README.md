@@ -8,16 +8,7 @@ Atualmente estou expandindo meus conhecimentos em PHP, Delphi e MongoDB, enquant
 Tecnologias que uso e estudo 
 <hr>
 Linguagens <br>
-<img width="50" src="https://github.com/user-attachments/assets/e74f5ee9-28fd-403c-a7ce-0d4ca41216e5"/>
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/><!--TYPESCRIPT-->
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/><!--JAVASCRIPT-->
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/><!-- C -->
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/><!-- C# -->
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo"/><!-- PHP -->
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-<path fill="#1565c0" d="M10,12l3,25l-8.019-8.019c-1.189-1.189-1.508-2.996-0.796-4.52L10,12z"></path><path fill="#42a5f5" d="M27.319,6.319C26.474,5.474,25.329,5,24.135,5c-0.745,0-1.479,0.185-2.135,0.538L10,12v20.343 c0,1.061,0.421,2.078,1.172,2.828L13,37h22v-5l7-11L27.319,6.319z"></path><path fill="#1565c0" d="M10,12h21.343c1.061,0,2.078,0.421,2.828,1.172L42,21v16h-7L10,12z"></path><polygon fill="#85cbf8" points="35,37 13,37 19,43 35,43"></polygon>
-</svg>
-
+<img width="50" src="https://github.com/user-attachments/assets/e74f5ee9-28fd-403c-a7ce-0d4ca41216e5"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/><!--TYPESCRIPT--><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/><!--JAVASCRIPT--><img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/><!-- C --><img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/><!-- C# --><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo"/><!-- PHP --><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png" alt="external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo"/><!-- KOTLIN -->
 <hr>
 Ferramentas de Design e Edição <br>
 <img width="60" src="https://github.com/user-attachments/assets/ee723523-2ca6-4b9b-80e0-93971350b52f" />
